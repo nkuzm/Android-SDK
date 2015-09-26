@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+
+    <string name="btn_txt">Привет!</string>
+    <string name="hello_world">Hello World</string>
+    <string name="btn_txt2">Вопрос</string>
+</resources>
